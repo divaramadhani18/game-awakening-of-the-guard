@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TombolAbout
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TombolAbout\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TombolAbout()
+comment2.params=
+comment2.target=void\ onClick()
+numComments=3

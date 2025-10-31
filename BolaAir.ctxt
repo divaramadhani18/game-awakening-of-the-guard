@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=BolaAir
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BolaAir\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=arahKanan
+comment1.target=BolaAir(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ gerak()
+comment4.params=
+comment4.target=void\ cekTabrakan()
+comment5.params=w\ h
+comment5.target=void\ ubahUkuranAnimasi(int,\ int)
+numComments=6

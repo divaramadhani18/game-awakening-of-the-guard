@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Nyawa
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nyawa\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Nyawa()
+comment2.params=
+comment2.target=void\ kurangi()
+comment3.params=banyak
+comment3.target=void\ tambah(int)
+comment4.params=
+comment4.target=int\ getNyawa()
+comment5.params=max
+comment5.target=void\ setMaxNyawa(int)
+comment6.params=
+comment6.target=void\ perbaruiGambar()
+numComments=7
